@@ -72,7 +72,6 @@
 
 ---
 
-# 🌐 Connect With Me  
 
 <p align="left">
   <a href="https://github.com/NaveedAhmad-6522" target="_blank">
