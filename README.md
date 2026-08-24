@@ -17,16 +17,14 @@
 
 I'm a Computer System Engineering student focused on **Python development and Artificial Intelligence**.
 
-I enjoy understanding how things work under the hood and turning what I learn into practical projects.
-
 * 🎓 Computer System Engineering student at **UET Peshawar**
 * 🐍 Focused on **Python development**
-* 🤖 Learning and building with **Machine Learning & Deep Learning**
-* 👁️ Interested in **Computer Vision**
-* 📊 Working with data using **NumPy, Pandas & Matplotlib**
-* 🌐 Building backend applications with **Django**
-* 🧠 Currently strengthening my foundations in **ML, neural networks and AI**
-* 🚀 Interested in developing AI systems that solve real-world problems
+* 🤖 Interested in **Machine Learning & Deep Learning**
+* 👁️ Exploring **Computer Vision**
+* 📊 Working with **NumPy, Pandas & Matplotlib**
+* 🌐 Learning backend development with **Django**
+* 🧠 Strengthening my foundations in machine learning, neural networks and AI
+* 🚀 Interested in building practical AI solutions
 
 ---
 
@@ -84,42 +82,14 @@ Currently working with:
 
 ---
 
-## 🚀 Projects
-
-### 🌱 Mango Vision
-
-AI-based agricultural vision system for detecting mango diseases using deep learning and computer vision.
-
-**Technologies:** Python • TensorFlow • Computer Vision • Vision Transformers
-
----
-
-### 🧠 Deep Learning From Scratch
-
-Implementing neural networks and deep learning concepts from scratch to understand the mathematics and algorithms behind modern AI systems.
-
-**Technologies:** Python • NumPy • Neural Networks • Backpropagation • Gradient Descent
-
----
-
-### 📚 Bank of MCQs
-
-Full-stack educational platform developed for managing and selling educational books and digital resources.
-
-**Technologies:** Node.js • Express • MongoDB • REST APIs
-
----
-
 ## 📚 Currently Learning
 
-```text
-Python Development       █████████████████░░░
-Machine Learning         ████████████████░░░░
-Deep Learning            ██████████████░░░░░░
-Computer Vision          █████████████░░░░░░░
-Django                   ███████████░░░░░░░░░
-AI Engineering           ██████████░░░░░░░░░░
-```
+* Python Development
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Django
+* AI Engineering
 
 ---
 
