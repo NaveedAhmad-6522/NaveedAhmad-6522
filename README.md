@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer System Engineering Student @ UET Peshawar</b><br>
-  Machine Learning • Computer Vision • Embedded Systems • Software Development
+  Python Developer • Machine Learning • Deep Learning • Computer Vision
 </p>
 
 <p align="center">
@@ -15,27 +15,30 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer System Engineering student interested in building software that connects **AI, systems, and real-world applications**.
+I'm a Computer System Engineering student focused on **Python development and Artificial Intelligence**.
 
-* 🎓 Studying Computer System Engineering at **UET Peshawar**
-* 🤖 Working with **Machine Learning, Deep Learning & Computer Vision**
-* ⚙️ Interested in **System Programming and low-level development**
-* 🔌 Building projects with **Embedded Systems & microcontrollers**
-* 🌐 Developing web applications and APIs
-* 🧠 Currently strengthening my foundations in **ML, Django, and software engineering**
-* 🚀 I learn by building things, breaking them, and figuring out why they broke.
+I enjoy understanding how things work under the hood and turning what I learn into practical projects.
+
+* 🎓 Computer System Engineering student at **UET Peshawar**
+* 🐍 Focused on **Python development**
+* 🤖 Learning and building with **Machine Learning & Deep Learning**
+* 👁️ Interested in **Computer Vision**
+* 📊 Working with data using **NumPy, Pandas & Matplotlib**
+* 🌐 Building backend applications with **Django**
+* 🧠 Currently strengthening my foundations in **ML, neural networks and AI**
+* 🚀 Interested in developing AI systems that solve real-world problems
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-### Programming Languages
+### 🐍 Python & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,php,bash,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,django,git,github,linux,vscode" />
 </p>
 
-### Machine Learning & Data
+### 🤖 Machine Learning & AI
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
@@ -48,75 +51,75 @@ I'm a Computer System Engineering student interested in building software that c
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter"/>
 </p>
 
-### Web Development
+### 🗄️ Databases & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-### Systems & Tools
+### 💻 Other Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,docker,unity" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,html,css" />
 </p>
 
 ---
 
-## 🔬 Areas I'm Working On
+## 🧠 Machine Learning
 
-```text
-Machine Learning       ████████████████░░░░
-Deep Learning          ██████████████░░░░░░
-Computer Vision        ██████████████░░░░░░
-C / C++ Systems        ███████████████░░░░░
-Embedded Systems       █████████████░░░░░░░
-Web Development        █████████████░░░░░░░
-Game Development       ████████░░░░░░░░░░░░
-```
+Currently working with:
+
+* Supervised Learning
+* Linear & Logistic Regression
+* Classification
+* Feature Engineering
+* Data Preprocessing
+* Model Evaluation
+* Regularization
+* Neural Networks
+* Backpropagation
+* Optimization
+* Computer Vision
+* Deep Learning
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🌱 Mango Vision
 
-AI-based mango disease detection using computer vision, with research into UAV-assisted monitoring and targeted agricultural intervention.
+AI-based agricultural vision system for detecting mango diseases using deep learning and computer vision.
 
-**Focus:** Deep Learning • Computer Vision • Vision Transformers • UAVs
+**Technologies:** Python • TensorFlow • Computer Vision • Vision Transformers
 
 ---
 
-### 📡 Real-Time Object Detection & Radar System
+### 🧠 Deep Learning From Scratch
 
-Arduino-based ultrasonic radar system for object detection, tracking and distance/speed estimation.
+Implementing neural networks and deep learning concepts from scratch to understand the mathematics and algorithms behind modern AI systems.
 
-**Focus:** Embedded Systems • Sensors • Servo Control • Serial Communication • Bare-Metal Programming
+**Technologies:** Python • NumPy • Neural Networks • Backpropagation • Gradient Descent
 
 ---
 
 ### 📚 Bank of MCQs
 
-A full-stack e-commerce platform for educational books and digital resources.
+Full-stack educational platform developed for managing and selling educational books and digital resources.
 
-**Focus:** Node.js • Express • MongoDB • REST APIs • Authentication • Deployment
-
----
-
-### 🧠 Machine Learning From Scratch
-
-Implementations and experiments covering the fundamentals of machine learning and deep learning.
-
-**Focus:** NumPy • Linear Regression • Logistic Regression • Neural Networks • Backpropagation • Optimization
+**Technologies:** Node.js • Express • MongoDB • REST APIs
 
 ---
 
-## 📌 Currently Learning
+## 📚 Currently Learning
 
-* Deep Learning & Computer Vision
-* Django & Backend Development
-* Advanced C/C++ and System Programming
-* Software Architecture
-* Practical ML model development and deployment
+```text
+Python Development       █████████████████░░░
+Machine Learning         ████████████████░░░░
+Deep Learning            ██████████████░░░░░░
+Computer Vision          █████████████░░░░░░░
+Django                   ███████████░░░░░░░░░
+AI Engineering           ██████████░░░░░░░░░░
+```
 
 ---
 
@@ -128,7 +131,7 @@ Implementations and experiments covering the fundamentals of machine learning an
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NaveedAhmad-6522&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=NaveedAhmad-6522&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -144,5 +147,5 @@ Implementations and experiments covering the fundamentals of machine learning an
 ---
 
 <p align="center">
-  <i>Build things. Understand how they work. Keep improving.</i>
+  <i>Learn deeply. Build practically. Keep improving.</i>
 </p>
